@@ -12,10 +12,10 @@ The test scenarios and steps are present in the RestTest.feature file [resources
 HOW TO RUN:
 -----------------------------------------------------------------------------
 
-Note: I am assume the Java and Maven setup is already done in the machine where the tests are going to be executed.
+Note: I assume that the Java and Maven setup is already done in the machine where the tests are going to be executed.
 
 1. Download the code
-2. open command prompt and navigate to the root folder of the this project [RestAssuredCucumber]
+2. open command prompt and navigate to the root folder of the this project where pom.xml is present [RestAssuredCucumber]
 3. Type mvn clean test [if Java and Maven Set up is correct then it will start test execution]
 4. Once the test execution is completed (After around 3 mins), you will be able to see a similar message like the below one in your console
 
