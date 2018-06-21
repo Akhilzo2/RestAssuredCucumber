@@ -22,9 +22,9 @@ Note: I assume that the Java and Maven setup is already done in the machine wher
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 15.227 s
-[INFO] Finished at: 2018-06-21T16:22:44+05:30
-[INFO] Final Memory: 18M/195M
+[INFO] Total time: 29.337 s
+[INFO] Finished at: 2018-06-21T22:43:39+05:30
+[INFO] Final Memory: 17M/133M
 [INFO] ------------------------------------------------------------------------
 
 The project can also be imported using an IDE like Eclipse and executed from it.
