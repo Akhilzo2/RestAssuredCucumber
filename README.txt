@@ -1,5 +1,5 @@
 NOTE:
-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 This test pack is developed using the following environment.
 	Operating System: Windows 10 
 	Java Version    : 1.8.0_92
@@ -10,7 +10,7 @@ The test scenarios and steps are present in the RestTest.feature file [resources
 
 
 HOW TO RUN:
-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 Note: I am assume the Java and Maven setup is already done in the machine where the tests are going to be executed.
 
@@ -30,7 +30,7 @@ Note: I am assume the Java and Maven setup is already done in the machine where 
 The project can also be imported using an IDE like Eclipse and executed from it.
 
 HOW TO VIEW THE REPORT:
-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 Navigate to the root folder [RestAssuredCucumber] after the test execution.
 Then Navigate to target\HTML-Report folder and open the index.html file to view the report.
@@ -38,7 +38,7 @@ Then Navigate to target\HTML-Report folder and open the index.html file to view 
 Each test scenario can be expanded if it is already not expanded (It changes depends on the browser you open the report) to view the detailed steps and the test data used, also to identify which is the exact step where the test got failed if there is any failure.
 
 QUESTIONS & CLARIFICATION
-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 Write to akhilzo2.6@gmail.com or akhil.m52@wipro.com for any clarifiactions required.
 Mob: 9902362045
